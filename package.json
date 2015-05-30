@@ -1,0 +1,26 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "This handles the SCSS compilation to CSS.",
+  "main": "main.html",
+  "scripts": {
+    "test": "n/a"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "Mark Labrecque",
+  "license": "n/a",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-sass": "^2.0.1"
+  }
+}
